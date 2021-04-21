@@ -1,0 +1,12 @@
+class rectangle():
+  def __init__(self,self.width,self.height)
+    self.width=width
+    self.height=height
+  def area ()
+    return self.width * self.height/2
+
+  num1=int(input("Enter Number in Height")) 
+  num2=int(input("Enter Number in Width")) 
+
+  newrectangle=rectangle(num1,num2/2)
+    print()
